@@ -1,0 +1,6 @@
+Observations for Heroes of Pymoli data:
+1.) There are many more male players than female and other/non-disclosed gender categories combined. This fact carried through in all of the gender analysis for total purchases.
+
+2.) Average purchase analysis throughout showed per player based on gender very similar purchase totals.  So, each player regardless of gender spend about the same amount of money.
+
+3.) In all sections where age was taken into account players ages 20-24 dominated by number and total purchases.  They are clearly the age group most interested in this game.
