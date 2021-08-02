@@ -1,4 +1,4 @@
-# Pandas Data Analyisis and Data Maipulation Tool Demonstration
+# Pandas Data Analyisis and Data Manipulation Tools Demonstration
 ## Heros of Pymoli Fantasy Roleplay Game
 In this analysis of Heros of Pymoli I utilize Pandas to demonstrate uses of this analysis tool and how it is used.
 I look at player gender and age data, and players spending data with regard to gender and age of the players. 
